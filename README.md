@@ -1,3 +1,3 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 200px;">
   <img src="https://raw.githubusercontent.com/jifengsir/jifengsir/main/exported_image.svg" alt="WELCOME" />
 </div>
