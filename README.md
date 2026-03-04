@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**jifengsir/jifengsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <span style="
+    font-size: 100px;
+    font-weight: 700;
+    background-image: radial-gradient(ellipse at 50% 140%, #c53c6f 0%, #bf3b87 31%, #8647b2 68%, #664ca6 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+  ">WELCOME</span>
+</p>
